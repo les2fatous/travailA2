@@ -1,0 +1,87 @@
+Les commentaires Specifiques
+
+              //Fonction word//
+   
+Objectifs :Faire entre tous les mots du fichier mots.txt dans un tableau
+Methode   :utilisation de open et d'une bouble for avec des instructions
+Besoins   :mots.txt
+Connus    :_
+Entrées   :_
+Sorties   :mots
+Resultats :_
+Hypothéses:mots doit être dans le fichier mots.txt
+
+           //Fonction affichage//
+
+Objectifs :Faire afficher le message de bienvenue en précisant le nombre de tentatives 
+           et de point-erreur que l'utilisation a  
+Methode   :print
+Besoins   :_
+Connus    :_
+Entrées   :_
+Sorties   :_
+Resultats :_
+Hypothéses:_
+
+         ///Fonction choisir/               
+
+Objectifs :Faire un choix sur le niveau de jeu que l'utilisateur veut faire
+Methode   :Deux boules et des conditions itératives avec des instructions
+Besoins   :mots	
+Connus    :_
+Entrées   :_
+Sorties   :mot
+Resultats :_
+Hypothéses:_
+
+           //Fonction test// 
+
+Objectifs :Essayer en premier lieu de trouver de mot en entrant des lettres qui vont être vérifiées si elles font parties 
+           ou non du mot et en second lieu faire un dessin du pendu qui se remplira au fur et à mesure que 
+           l'utilisateur fait des erreurs
+Methode   :Des boucles et des conditions itératives avec des instructions
+Besoins   :mot, av, erreur
+Connus    :mot
+Entrées    :lettres
+Sorties   :lettre , corp, reste
+Resultats :_
+Hypothése: on ne doit entré que des lettres alphabétiques
+     
+       	 //Fonction testLettre//
+
+Objectifs :Vérifier si la lettre entrée est une voyelle ou une consonne et faire la correspondance avec le 
+           nombre d'erreur ainsi que le nombre de tentatives perdues 
+Methode   :Condition itérative avec des instructions
+Besoins   :lettres	
+Connus    :_
+Entrées   :_
+Sorties   :_
+Resultats :_
+Hypothéses:_
+
+ 	//Fonction occurrence//
+
+Objectifs:Faire la recupération d'une lettre lorsque celle-ci existe plusieurs dans le mot
+Methode  :boucle for et une condition itérative avec des instructions
+Besoins  :mot
+Connus   :mot
+Entrées  :_
+Sories   :unique
+Resultats:_
+hypothése:_
+
+
+      //Fonction score//     
+
+
+Objectifs:Connaître le score de l' utilisateur
+Methode  :_
+Besoins  :_
+Connus   :_
+Entrées  :_
+Sories   :reste,unique
+Resultats:_
+hypothése:_
+
+
+

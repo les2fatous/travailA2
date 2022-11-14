@@ -1,0 +1,4 @@
+
+Niveau : 1
+Nombre de tentatives restantes : 1
+Score : 3
